@@ -23,7 +23,7 @@ I'm a Frontend Developer currently developing some exciting projects.
 Javascript, HTML, CSS, Javascript, Reactjs, C, C++, Java
 
 
-## Demo
+## Demo Projects
 
 College Website- https://iitachalpur.netlify.app/
 
