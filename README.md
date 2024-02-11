@@ -19,12 +19,6 @@ I'm a Frontend Developer currently developing some exciting projects.
 
 **Server:** Node, Express
 
-
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
-
 ## 🛠 Skills
 Javascript, HTML, CSS, Javascript, Reactjs, C, C++, Java
 
