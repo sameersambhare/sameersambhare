@@ -34,5 +34,5 @@ Learning Website- https://webverseco.netlify.app/
 
 ## Support
 
-For support, email sameersambhare@gmail.com or join our Slack channel.
+For support, email sameersambhare@gmail.com or follow me on Instagram @sameer_30n.
 
