@@ -8,7 +8,7 @@ Passionate about crafting immersive and visually stunning web experiences, I am 
 I'm a Frontend Developer currently developing some exciting projects.
 
 
-## Other Common GitHub Profile Sections
+## Current Learning
 
 🧠 I'm currently learning Nextjs
 
