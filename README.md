@@ -5,7 +5,7 @@ Passionate about crafting immersive and visually stunning web experiences, I am 
 
 
 ## 🚀 About Me
-I'm a Frontend Developer currently developing some exciting projects.
+I'm a MERN Developer currently developing some exciting projects.
 
 
 ## Current Learning
@@ -20,7 +20,7 @@ I'm a Frontend Developer currently developing some exciting projects.
 **Server:** Node, Express
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Javascript, Reactjs, C, C++, Java
+Javascript, HTML, CSS, Javascript, Reactjs, C, C++, Java, ExpressJs
 
 
 ## Demo Projects
