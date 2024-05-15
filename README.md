@@ -25,8 +25,6 @@ Javascript, HTML, CSS, Javascript, Reactjs, C, C++, Java, ExpressJs
 
 ## Demo Projects
 
-College Website- https://iitachalpur.netlify.app/
-
 OnePlus Clone- https://oneplusindia.netlify.app/
 
 Learning Website- https://webverseco.netlify.app/
