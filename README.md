@@ -7,12 +7,6 @@ Passionate about crafting immersive and visually stunning web experiences, I am 
 ## 🚀 About Me
 I'm a MERN Developer currently developing some exciting projects.
 
-
-## Current Learning
-
-🧠 I'm currently learning Nextjs
-
-
 ## Tech Stack
 
 **Client:** React, Redux, TailwindCSS
