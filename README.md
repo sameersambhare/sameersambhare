@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameersambhare&show_icons=true&locale=en&layout=compact" alt="sameersambhare" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameersambhare&show_icons=true&locale=en" alt="sameersambhare" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameersambhare&" alt="sameersambhare" /></p>
