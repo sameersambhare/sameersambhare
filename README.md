@@ -1,3 +1,5 @@
+# 💫 About Me:
+🔭 I’m currently working on: NEXT.js projects<br>🧑‍🤝‍🧑 I’m looking to collaborate on: Web development initiatives<br>🤝 I’m looking for help with: Optimizing performance and advanced features<br>🌱 I’m currently learning: Full-stack development and server-side rendering<br>💬 Ask me about: Web technologies, frontend frameworks, and project ideas<br>⚡ Fun fact: I love exploring new tools and frameworks to stay ahead in the web development world!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sameer_sambhare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameersambhare) 
