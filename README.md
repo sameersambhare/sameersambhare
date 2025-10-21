@@ -1,6 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on: NEXT.js projects<br>🧑‍🤝‍🧑 I’m looking to collaborate on: Web development initiatives<br>🤝 I’m looking for help with: Optimizing performance and advanced features.
+# 👋 Hey there, I'm **Sameer Sambhare**
+### 💻 Sr. Webmaster @PCCOE ACM | Full-Stack Developer | React.js | JavaScript | TypeScript | C++
 
+---
+
+## 💫 About Me
+🔭 **Currently working on:** Next.js projects & creative web apps  
+🤝 **Open to collaborate on:** Modern Web Development initiatives  
+🧠 **Learning:** Performance optimization & advanced system design  
+💬 **Ask me about:** MERN stack, React.js, and efficient coding patterns  
+🌱 **Passionate about:** Building impactful digital experiences  
+⚡ **Fun Fact:** I turn caffeine ☕ into clean, elegant code 🚀  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sameer_sambhare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameersambhare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameersambhare@gmail.com) 
