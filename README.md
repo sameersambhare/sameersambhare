@@ -142,7 +142,7 @@ AI Resume Analyzer with ATS scoring and AI feedback.
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   
-  <a href="mailto:your-email@example.com" target="blank">
+  <a href="mailto:ysameersambhare@gmail.com" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
