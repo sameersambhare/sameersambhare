@@ -100,8 +100,7 @@ AI Resume Analyzer with ATS scoring and AI feedback.
 - AI System Design
 
 ---
-
-<h2 align="center">📊 GitHub Stats</h2>
+## Github Status
 
 <p align="center">
   <img 
@@ -112,6 +111,16 @@ AI Resume Analyzer with ATS scoring and AI feedback.
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sameersambhare&layout=compact&theme=tokyonight&hide_border=true" 
     height="170"
+  />
+</p>
+
+---
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=sameersambhare&theme=tokyonight&hide_border=true" 
   />
 </p>
 
