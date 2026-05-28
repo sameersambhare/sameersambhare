@@ -103,12 +103,12 @@ AI Resume Analyzer with ATS scoring and AI feedback.
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameersambhare&show_icons=true&theme=tokyonight" />
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameersambhare&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sameersambhare&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameersambhare&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
