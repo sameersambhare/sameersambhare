@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Sameer Sambhare</h1>
 <h3 align="center">
 Full Stack + AI Engineer | MERN Stack | LLM Apps | AI Workflows
@@ -130,4 +130,4 @@ AI Resume Analyzer with ATS scoring and AI feedback.
 <h3 align="center">
 ⚡ Building AI-powered products with modern fullstack technologies ⚡
 </h3>
-```
+
