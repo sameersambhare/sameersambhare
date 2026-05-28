@@ -100,19 +100,28 @@ AI Resume Analyzer with ATS scoring and AI feedback.
 - AI System Design
 
 ---
-## Github Status
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sameersambhare&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+<h2 align="center">📊 Github Status</h2>
 
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sameersambhare&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=sameersambhare&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sameersambhare&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -120,7 +129,7 @@ AI Resume Analyzer with ATS scoring and AI feedback.
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=sameersambhare&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=sameersambhare&theme=tokyonight&hide_border=true"
   />
 </p>
 
